@@ -1,0 +1,17 @@
+Company,Segment,Pricing Model,Features,Crypto Support,Mobile App Support,Licensed,Trust Rating (out of 5),Region,Website,Unique Edge
+Escrow.com,Global / General,0.89%-3.25% per transaction,"Licensed, multi-currency, API",No,No,Yes (US),4.5,Global,https://www.escrow.com,"Highly trusted, licensed escrow"
+Payoneer,B2B / Freelancers,Flat + % fees,"Global reach, B2B tools",No,Yes,Yes (US),4.2,Global,https://www.payoneer.com,Freelance/B2B payouts infrastructure
+Safefunds,Consumer / E-commerce,Flat or % based,"Simple UI, email-based process",No,Yes,Yes (US),4.1,US,https://www.safefunds.com,Simple to use for small businesses
+Kleros,Web3 / Crypto,Crypto gas + dispute fee,"Smart contract-based, decentralized",Yes,No,No,NaN,Global,https://kleros.io,Decentralized Web3 legal arbitration
+Transpact,UK / EU,£3.99 flat + %,"FSA-regulated, low cost",No,No,Yes (UK),3.9,UK,https://www.transpact.com,"Low-cost, UK-regulated micro-escrow"
+Trustap,Consumer-to-Consumer (C2C),Transaction-based fee,"Escrow tied to delivery stages, in-app chat, QR code verification",No,Yes,Yes (Ireland),2.2,"UK,EU,Global",https://www.trustap.com,Ideal for person-to-person sales and delivery verification
+Freelancer Escrow,Freelance & Gig Economy,3%-5% of project amount,"Milestone payments, secure fund holding, dispute resolution",No,Yes,Yes (Australia),4.3,Global,https://www.freelancer.com/escrow,Built into a major freelance marketplace with trusted processes
+Tazapay,Global / General,1-2% transaction fee,"Cross-border payments, Escrow services, Multi-currency support, API integration",Yes,Yes,"Yes(SG,EU,US)",2.8,Global,https://tazapay.com/,"Transactional, bulk escrow"
+Uniscrow,Global / General,1-1.8%,"Global reach, B2B tools",Yes,No,Yes(Italy),NaN,Global,https://www.uniscrow.com/,"Milestone-based, hourly contracts"
+Stewart Title,Global / General,Relative,"Cross-border, 1031 exchange support ",No,Yes,Yes(US),3.2,Global,https://www.stewart.com/en,Diversified real estate services portfolio
+NCC Group,"UK,US,Global",Relative,Global,No,Yes,Yes(UK),3.2,Global,https://www.nccgroup.com/us/,Global legal frameworks for multi-jurisdictional protection
+Alibaba,Trade Assurance,commission fee/subscription plan,"B2B/B2C e-commerce, cloud computing",No,Yes,Yes,4.1,Global,https://www.alibaba.com/,Alibaba’s B2B focus gives it an edge in emerging markets.
+Fiverr,Freelance & Gig Economy,Service fees: 5%-20%,"Integrated in Fiverr platform, milestone payments, payment protection",No,Yes,(US &Global),4.3,Global,https://www.fiverr.com/workspace,Massive freelancer base with built-in trust and workflow tools
+Troco escrow," P2P, E-commerce",Flat % fee (varies by amount),"Licensed escrow, real-time tracking, SMS notifications, Nigerian Naira based",No,Yes,Yes(Nigeria),4.6,Africa (Nigeria focus),https://troco.ng,Tailored for Nigerian users with Naira transactions and localized features
+Trustpay,"P2P, E-commerce, real estate and vehicle sales, marchants",Relative,"insurance coverage, API integration, dispute resolutions",No,No,Yes(Nigeria),1.9,Nigeria,https://www.atarapay.com,leveraging its model to address trust issues in online transactions
+Payscrow,"Freelancer, real estate transactions,E-commerce",2%+100 naira per transaction,"B2B escrow, API Integration",No,No,Yes,NaN,Nigeria,https://www.payscrow.com,"Mulit-party disbursement, customizable notifications"
